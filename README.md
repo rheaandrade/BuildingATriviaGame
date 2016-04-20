@@ -1,0 +1,2 @@
+# BuildingATriviaGame
+Read necessary documents
